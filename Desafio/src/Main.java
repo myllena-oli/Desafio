@@ -10,7 +10,7 @@ public class Main {
         Scanner ler = new Scanner(System.in);
         System.out.println("\n--------BEM VINDO AO JOGO DOS DADOS!--------");
 
-        int escolha, pontos = 0, rodada = 0, total = 0;
+        int escolha, pontos = 0, rodada = 0;
         List<String> pontuacaoGeral = new ArrayList<>();
 
         while (true) {
